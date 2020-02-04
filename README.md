@@ -1,1 +1,1 @@
-# MEAN-STACK
+# MEAN-STACK (MongoDB, Express, Angular, Nodejs)
