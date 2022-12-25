@@ -14,4 +14,14 @@ Demo:
 - sockets, hooks, props, JavaScript, APIs, and more...
 - All the great features of this application are made possible by chat engine.
 - Chat engine - uses sockets behind the scenes. And it allows you to createe a simple chat in just 12 lines but it also allows for a complete customization of absulutely any part of the chat application.
+- //install all dependencies that we'll be using for this project.
+- axios =>to make request
+npm install @ant-design/icons axios react-chat-engine
+==================================================================================
+- To create an instance of the chat-application, you can go to chatengine.io =>Signup.
+- New Project: 
+Project Title: Chat App => create =>copy project ID =>App.js
+New User: create a new user =>ThanhNgo_888;mypassword
+New Chat: create a new chat room =>Roman Community; Admin Username:ThanhNgo_888
+terminal: npm start
 ==================================================================================
