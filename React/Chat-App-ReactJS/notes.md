@@ -25,3 +25,8 @@ New User: create a new user =>ThanhNgo_888;mypassword
 New Chat: create a new chat room =>Roman Community; Admin Username:ThanhNgo_888
 terminal: npm start
 ==================================================================================
+# Add new person to the chat
+- add a new user on chatengine.io
+BinhVien,password
+==================================================================================
+- creating a login system so that different people can log in and communicate together.

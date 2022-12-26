@@ -1,4 +1,5 @@
 import { ChatEngine } from 'react-chat-engine';
+import ChatFeed from './components/ChatFeed';
 import './App.css';
 
 //simple functional component
@@ -12,6 +13,8 @@ const App = () => {
       userName="ThanhNgo_888
       "
       userPassword="mypassword"
+      //enter a new prop called renderChatFeed
+      renderChatFeed={(chatAppProps) => <ChatFeed {...chatAppProps}/>}
     />
   );
 }
